@@ -1,4 +1,4 @@
-#include "list.h"
+#include "lists.h"
 
 /**
  * check_cycle - to check the cycle so fast
