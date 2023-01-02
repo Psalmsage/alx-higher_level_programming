@@ -1,4 +1,5 @@
-#include <list.h>
+#include "list.h"
+
 /**
  * check_cycle - to check the cycle so fast
  * @list: the list
