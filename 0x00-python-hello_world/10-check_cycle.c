@@ -1,4 +1,9 @@
 #include <list.h>
+/**
+ * check_cycle - to check the cycle so fast
+ * @list: the list
+ * Return: return 1 if cycle 0 if not
+ */
 
 int check_cycle(listint_int *list)
 {
