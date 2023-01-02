@@ -6,7 +6,7 @@
  * Return: return 1 if cycle 0 if not
  */
 
-int check_cycle(listint_int *list)
+int check_cycle(listint_t *list)
 {
 	listint_t *slow = list;
 	listint_t *fast = list;
